@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashwebdesigns&label=Profile%20views&color=0e75b6&style=flat" alt="akashwebdesigns" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashwebdesigns" alt="akashwebdesigns" /></a> </p>
+
+- 👨‍🎓 I’m currently pursuing Bachelor's of Technology in Information Technology from **Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh**
 
 - 👨‍💻 All of my projects are available at [https://akashwebdesigns.github.io/Portfolio/](https://akashwebdesigns.github.io/Portfolio/)
 
@@ -13,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yuofQPMPrwqcBzf5ZaBorJue1UIfEKOo/view?usp=sharing](https://drive.google.com/file/d/1yuofQPMPrwqcBzf5ZaBorJue1UIfEKOo/view?usp=sharing)
 
-- My hobbies are **playing cricket, pc and mobile games and learning new technologies**
+- 🏌️‍♂️ My hobbies are playing **Cricket, Badminton, PC and mobile games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
